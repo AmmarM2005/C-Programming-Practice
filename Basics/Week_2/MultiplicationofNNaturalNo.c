@@ -1,4 +1,4 @@
-//Program of Print Multiplication of N Natural Numbers (Method 1)
+//Program of Print Multiplication of N Natural Numbers
 #include<stdio.h>
 int main()
 {
